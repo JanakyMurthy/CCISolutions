@@ -1,7 +1,15 @@
 
+/**
+* <h1>Solution to the Problem 1.1 in Cracking the coding interview - edition 6</h1>
+* <b>Given a input string check if all characters are unique</b>
+* <i>Usage: java IsUnique Number_of_Strings String1 String2 .. StringN </i>
+* @author Janaky Murthy
+* @version 1.0
+* @since 13/02/2016
+*/
+
 import java.lang.Integer; // for Integer.parseInt()
 
-/* Usage: java IsUnique Number_of_Strings String1 String2 .. StringN */
 
 public class IsUnique{
 
