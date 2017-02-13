@@ -1,7 +1,7 @@
 /**
 * <h1>Solution to the Problem 1.2 in Cracking the coding interview - edition 6</h1>
 * <b>Given 2 input strings check if they are permutations of each other</b>
-* <i>Usage: java CheckPermutation1 String1 String2 </i>
+* <i>Usage: java CheckPermutation2 String1 String2 </i>
 * @author Janaky Murthy
 * @version 1.0
 * @since 13/02/2016						
