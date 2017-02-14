@@ -4,7 +4,7 @@
 * <i>Usage: java CheckPermutation2 String1 String2 </i>
 * @author Janaky Murthy
 * @version 1.0
-* @since 13/02/2016						
+* @since 13/02/2017						
 */
 
 import java.lang.*; // for all the string methods
